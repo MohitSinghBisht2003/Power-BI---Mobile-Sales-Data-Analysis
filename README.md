@@ -1,16 +1,16 @@
 # 📱 Mobile Sales Data Analysis Dashboard
 
-Welcome to the Mobile Sales Dashboard – a powerful and interactive report built using **Power BI** to analyze and visualize mobile phone sales data across India. This dashboard provides deep insights into sales trends, brand performance, customer behavior, and regional patterns – all in one place.
+Welcome to the Mobile Sales Dashboard – a powerful and interactive report built using **Power BI** to analyse and visualise mobile phone sales data across India. This dashboard provides deep insights into sales trends, brand performance, customer behaviour, and regional patterns – all in one place.
 
-## Dashboard Screenshot
-<img width="1326" height="739" alt="Dashboard" src="https://github.com/user-attachments/assets/ccff398a-2004-4dcd-8443-9b5f5385a707" />
+## Dashboard Demo Video
+(./Dashboard Video.mp4)
 
 
 ---
 
 ## 🚀 Overview
 
-This project was created to simplify mobile sales analytics and turn raw data into actionable insights. Whether you're a business owner, analyst, or someone passionate about data visualization, this dashboard helps you explore:
+This project was created to simplify mobile sales analytics and turn raw data into actionable insights. Whether you're a business owner, analyst, or someone passionate about data visualisation, this dashboard helps you explore:
 
 - 💰 **Total sales & transactions**
 - 🏙️ **City-wise performance**
@@ -27,10 +27,10 @@ This project was created to simplify mobile sales analytics and turn raw data in
 Get a snapshot of overall performance with total revenue, quantity sold, number of transactions, and average sales.
 
 ✅ **Interactive Sales Map**  
-Visualize how each city performs in terms of mobile sales with intuitive mapping.
+Visualise how each city performs in terms of mobile sales with intuitive mapping.
 
 ✅ **Top Brands Leaderboard**  
-See which brands are leading the market with the highest sales.
+Discover which brands are leading the market in terms of sales.
 
 ✅ **Customer Rating Breakdown**  
 Understand customer sentiment and satisfaction levels based on star ratings.
