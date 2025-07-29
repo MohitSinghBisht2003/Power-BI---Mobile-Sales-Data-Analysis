@@ -2,9 +2,8 @@
 
 Welcome to the Mobile Sales Dashboard – a powerful and interactive report built using **Power BI** to analyse and visualise mobile phone sales data across India. This dashboard provides deep insights into sales trends, brand performance, customer behaviour, and regional patterns – all in one place.
 
-## Dashboard Demo Video
-(./Dashboard Video.mp4)
-
+## Dashboard Screenshot
+<img width="1326" height="739" alt="Dashboard" src="https://github.com/user-attachments/assets/3e4c3be4-acb2-4961-bfd8-f36c81ad1a51" />
 
 ---
 
